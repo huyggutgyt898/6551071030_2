@@ -1,0 +1,28 @@
+.body{
+	border: 0px;
+}
+}.contact{
+	width: 100%;
+	height: 500px;
+	display: flex;
+	justtify-content: space-evently;
+	flex-wrap: wrap;
+}
+
+.contact-item{
+	flex-basis: 30px;
+	height: 500px
+}
+.contact-item h2{
+	color: blue;
+}
+.contact-item p{
+	color: red;
+}
+
+a{
+	flex-basis: 30px;
+	height: 300px;
+}
+
+	
